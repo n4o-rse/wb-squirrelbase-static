@@ -1,0 +1,145 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q6$38125f71-4abe-5ded-6cb8-8595284009d5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q6$44a8756f-4dd1-9964-8d0c-839abfb2e058",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://archaeosquirrels.cloud/?model=Rom_Capitol_KopfKonstantin"
+          },
+          "hash": "aad67d4a98cc1d591a3b8ff0481af13e85bab31a",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q6$63375216-48d2-046f-c858-5651082ee3c4",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=8c902a6ddcb240928550accca03e662c"
+          },
+          "hash": "9fc46ed62392c6f1dca1a5e455b0f484c37ef886",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q6$ac20ea49-42fe-c75b-063d-962d23762d18",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1289781"
+          },
+          "hash": "6d55253d1d2302d278f98f2fcfd3fcca4689b1cb",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q6$a4226c3e-4d83-a5dc-0608-a80600fb0c67",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "relation/9909127"
+          },
+          "hash": "39372e91c634add7e37ea776339049de3854c428",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q6$436f5e12-4d0d-f64f-b08b-00a52275c070",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 41.892906,
+              "longitude": 12.482534,
+              "precision": 1e-06
+            }
+          },
+          "hash": "dc76d4a7387baa17d1b125c2ef167b867281dcb3",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "object"
+    },
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q6",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Rom Capitol Kopf Konstantin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rom Capitol Kopf Konstantin"
+    }
+  },
+  "lastrevid": 45,
+  "modified": "2025-02-01T16:13:16Z",
+  "ns": 120,
+  "pageid": 15,
+  "sitelinks": {},
+  "title": "Item:Q6",
+  "type": "item"
+}

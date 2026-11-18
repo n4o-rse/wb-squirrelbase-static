@@ -1,0 +1,98 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q57$c7c7294e-436e-4033-cb6e-9184a9660942",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q57$401606f8-4ce4-c3c4-8164-ccdfb000bec1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q138426831"
+          },
+          "hash": "8300e2eca3900a1f17a262856580206c2ef2b01a",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q57$ee69ea0e-4434-4171-3f0c-3be50305deb0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/5336980702"
+          },
+          "hash": "5def62c2f326b4d70a93b503991473db57d49812",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q57$90b6c093-4c32-2944-9f91-2366bc38ecf3",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 51.3133479,
+              "longitude": 9.4163989,
+              "precision": 1e-07
+            }
+          },
+          "hash": "70f0a7816b29daf117c4236e1ff96d503c75b888",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q57",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kassel: Dackelgrab zum Andenken an “Erdmann”"
+    }
+  },
+  "lastrevid": 425,
+  "modified": "2026-02-23T11:37:09Z",
+  "ns": 120,
+  "pageid": 87,
+  "sitelinks": {},
+  "title": "Item:Q57",
+  "type": "item"
+}

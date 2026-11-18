@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {},
+  "id": "P26",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Semantic Kompakkt URL"
+    }
+  },
+  "lastrevid": 245,
+  "modified": "2026-02-21T13:09:55Z",
+  "ns": 122,
+  "pageid": 70,
+  "title": "Property:P26",
+  "type": "property"
+}

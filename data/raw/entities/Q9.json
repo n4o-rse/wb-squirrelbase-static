@@ -1,0 +1,128 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q9$6b33c8ee-46ab-3a97-51de-031f18bb489a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q9$223adcae-431a-a600-a0fe-5179389b9120",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=0d732429296e4131b33525ffc8267214"
+          },
+          "hash": "eb5973eea78b432783598ccbdadc812ed53ab57a",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q9$a608edfb-4f24-7f6a-09ba-672e8b4e4973",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q154987"
+          },
+          "hash": "e1db9b86d2f09650096262ee320f80c6b532a13d",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q9$c3a87ef0-43bb-d307-816c-f63b1611c4f9",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "way/718035022"
+          },
+          "hash": "2d55e588f0d3ba9679f9a7f4a087df34d5fa3350",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q9$9ba6197e-4a53-7169-b064-fecfe8b3c2af",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.514512,
+              "longitude": 13.350108,
+              "precision": 1e-06
+            }
+          },
+          "hash": "da235da18483d4c9b97d11a0f0e9fb94f423d353",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "object"
+    },
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q9",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Berliner Siegessäule (Mosaik)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berliner Siegessäule (Mosaik)"
+    }
+  },
+  "lastrevid": 74,
+  "modified": "2025-02-01T16:27:23Z",
+  "ns": 120,
+  "pageid": 18,
+  "sitelinks": {},
+  "title": "Item:Q9",
+  "type": "item"
+}

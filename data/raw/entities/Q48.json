@@ -1,0 +1,593 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q48$050525c4-4e32-07b7-97bb-6dca2e9c790b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P11": [
+      {
+        "id": "Q48$1aff5909-46ae-9111-0d9e-cdb024aff5ba",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q2016147"
+          },
+          "hash": "ddfa763e5b997dbdf398565a8307d0cde100b2cf",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q33",
+                  "numeric-id": 33
+                }
+              },
+              "hash": "633295086ebadffecc7fbc5a0c01895c6628381f",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q37",
+                  "numeric-id": 37
+                }
+              },
+              "hash": "b1425cd2993e3f92c9a14b21af060c59f636b662",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "object type"
+              },
+              "hash": "ca98f1edd9bed00fd72c5d71ea8bf154b0ed8a68",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "FDO"
+              },
+              "hash": "64d66d9e40aade4dba7f3e597fe510df4ccb3bf9",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Ogham Stone"
+              },
+              "hash": "4073afe9affce9be3af259f29c7c51c401f0db40",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48$c21c2dd4-4ade-7b41-4eec-92105150e1fc",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q121592049"
+          },
+          "hash": "5431afe551963bbd270935f77bbb1393bed3d1bb",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q35",
+                  "numeric-id": 35
+                }
+              },
+              "hash": "599368a06165659566260ebd6131cf981d557067",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q41",
+                  "numeric-id": 41
+                }
+              },
+              "hash": "a9ade3628bb83dc30a28b91c8aa5153f16d8eed0",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "exhibition"
+              },
+              "hash": "2719fbb57c1155c53aa73648375934d6c89a42a8",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "FDO"
+              },
+              "hash": "64d66d9e40aade4dba7f3e597fe510df4ccb3bf9",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "UCC Stone Corridor"
+              },
+              "hash": "46bbbfcd93c590f7e01efc14c9a92458e9c36e13",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q48$13ef7b72-4493-4e85-a690-13a5599b7a38",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://archaeosquirrels.cloud/?model=CO074-148----"
+          },
+          "hash": "1322265723a48a70c4e4e6bbcee4c3495b59c09b",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P18": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q45",
+                  "numeric-id": 45
+                }
+              },
+              "hash": "ff43d310826f45ffe3f3ad9f50dfa8ca6df45fda",
+              "property": "P18",
+              "snaktype": "value"
+            }
+          ],
+          "P19": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "KIRI engine"
+              },
+              "hash": "e38c7e5c11d568d5a336fec7ab692cdebf57f19f",
+              "property": "P19",
+              "snaktype": "value"
+            }
+          ],
+          "P20": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Anne-Karoline Distel"
+              },
+              "hash": "f8ec98181fdc9e348939d9fe5caf04d329103f73",
+              "property": "P20",
+              "snaktype": "value"
+            }
+          ],
+          "P21": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY-NC-SA 4.0"
+              },
+              "hash": "af95f7b25d5b993865a1e55456b47126960e391f",
+              "property": "P21",
+              "snaktype": "value"
+            }
+          ],
+          "P29": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "iPhone"
+              },
+              "hash": "7e338f97fe2cc10b4fe50a07f37b42e61a0d0bb3",
+              "property": "P29",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P18",
+          "P29",
+          "P19",
+          "P20",
+          "P21"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q48$b7a41890-4dbb-22e0-1f0a-ab9a1cc61b44",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/cork-ogham-stone-ciic-81-ucc-4-4cb26986be274ee099515c2baa3b1825"
+          },
+          "hash": "25b148fd108060c84b35fecf3dc278f3c431ff6e",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P18": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q45",
+                  "numeric-id": 45
+                }
+              },
+              "hash": "ff43d310826f45ffe3f3ad9f50dfa8ca6df45fda",
+              "property": "P18",
+              "snaktype": "value"
+            }
+          ],
+          "P19": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "KIRI engine"
+              },
+              "hash": "e38c7e5c11d568d5a336fec7ab692cdebf57f19f",
+              "property": "P19",
+              "snaktype": "value"
+            }
+          ],
+          "P20": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Anne-Karoline Distel"
+              },
+              "hash": "f8ec98181fdc9e348939d9fe5caf04d329103f73",
+              "property": "P20",
+              "snaktype": "value"
+            }
+          ],
+          "P21": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY-NC-SA 4.0"
+              },
+              "hash": "af95f7b25d5b993865a1e55456b47126960e391f",
+              "property": "P21",
+              "snaktype": "value"
+            }
+          ],
+          "P29": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "iPhone"
+              },
+              "hash": "7e338f97fe2cc10b4fe50a07f37b42e61a0d0bb3",
+              "property": "P29",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P18",
+          "P29",
+          "P19",
+          "P20",
+          "P21"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q48$534270fa-4c5c-618b-248c-97cebeb711c8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130529871"
+          },
+          "hash": "0eb107e8518760841a5a301919c39b7027d146c1",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q48$78a95016-4dc1-07d9-5f04-c95e6beeb045",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/11071361392"
+          },
+          "hash": "40a0247d13656bdd209562914a62f73fce141f89",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q48$8d00ec5d-4947-bd23-11d7-6e26ac4f9265",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 51.893715,
+              "longitude": -8.4924208,
+              "precision": 1e-07
+            }
+          },
+          "hash": "5935d4bc00b2a57e160b07fcfcb2550dfe10fca8",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9": [
+      {
+        "id": "Q48$ade29e1f-4b66-af0d-003d-433a1bafef3d",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://doi.org/10.5281/zenodo.18724635"
+          },
+          "hash": "b4a2a18347c7e6e3f1b51748ed0263a4e3a0931e",
+          "property": "P9",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "fdo:3DDataFDO"
+              },
+              "hash": "0b7a64dc1eed885ef798f834b51a8b2fa60d8816",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "glb"
+              },
+              "hash": "f18e4ee62cdbd854981dd01d769f26c53c5b0603",
+              "property": "P23",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "ply"
+              },
+              "hash": "74409c1a4e612e7a89d36a5f59e66911cb9304b4",
+              "property": "P23",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "nxs"
+              },
+              "hash": "2a1c771dfb1f7357b2a6293fa55f976c0090571c",
+              "property": "P23",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "nxz"
+              },
+              "hash": "0ef8087bc9fd828aa73da02b6880124e38cffc15",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P24": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY-NC-SA 4.0"
+              },
+              "hash": "8d5671558e77082a02055cd7ccf935276df1d6ef",
+              "property": "P24",
+              "snaktype": "value"
+            }
+          ],
+          "P25": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "v0.3.1"
+              },
+              "hash": "3e53c987e896652672068ef842e6f39f6dea3be1",
+              "property": "P25",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P24",
+          "P25"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q48",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "CIIC 81 / UCC 4 / CO074-148----"
+    }
+  },
+  "lastrevid": 453,
+  "modified": "2026-02-23T14:28:13Z",
+  "ns": 120,
+  "pageid": 78,
+  "sitelinks": {},
+  "title": "Item:Q48",
+  "type": "item"
+}

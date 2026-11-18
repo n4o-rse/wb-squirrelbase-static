@@ -1,0 +1,111 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q19$a905a9c7-4a06-ebe1-b6ce-a55df10877c6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17",
+              "numeric-id": 17
+            }
+          },
+          "hash": "fdb7777ca51cc1d2a3b9f22635eb85692128311b",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q19$83c28e26-4315-a876-8e57-8608ae4c06ab",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=69b0d37d948847b7991a7920dd9ec98f"
+          },
+          "hash": "e54ecf222e194892bcf6648fc8b7ee67be48b120",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q19$a2a67d6f-4e43-e726-91c5-1f61d53d986c",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/279714434"
+          },
+          "hash": "0fd1d077f519e7c511d84892e7af1ed54648f870",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q19$7e7334a0-405b-37ba-1ead-033327ad9ab0",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 46.6381439,
+              "longitude": 12.2343376,
+              "precision": 1e-07
+            }
+          },
+          "hash": "2f64f31fda05036e606fa4007328df22b64301ae",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "temporal object"
+    },
+    "en": {
+      "language": "en",
+      "value": "temporal object"
+    }
+  },
+  "id": "Q19",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schneemann am Dreizinnenblick"
+    },
+    "en": {
+      "language": "en",
+      "value": "Schneemann am Dreizinnenblick"
+    }
+  },
+  "lastrevid": 147,
+  "modified": "2025-02-01T17:58:11Z",
+  "ns": 120,
+  "pageid": 28,
+  "sitelinks": {},
+  "title": "Item:Q19",
+  "type": "item"
+}

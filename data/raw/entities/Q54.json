@@ -1,0 +1,58 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q54$c9253a7c-47d4-e65b-692f-6f57c18d9595",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q54$b3dd1542-4c01-d8ec-cf65-26f74b3e7b0a",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/7985514230"
+          },
+          "hash": "717f2ed713869f778a940d129fa5137bdb928bd6",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q54",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Köln: Kastell Divitia Deutz “Taktiles Modell”"
+    }
+  },
+  "lastrevid": 418,
+  "modified": "2026-02-23T10:42:25Z",
+  "ns": 120,
+  "pageid": 84,
+  "sitelinks": {},
+  "title": "Item:Q54",
+  "type": "item"
+}

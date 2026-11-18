@@ -1,0 +1,405 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q27$6c963d20-4b91-0a3d-8d9d-bfa2f20024dd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P11": [
+      {
+        "id": "Q27$bbf14674-47eb-c7d3-30f9-977b5c7082ca",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q1371047"
+          },
+          "hash": "accdb2eaaed6b11a8ddc5ccf61e8b472bc09d1c0",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q33",
+                  "numeric-id": 33
+                }
+              },
+              "hash": "633295086ebadffecc7fbc5a0c01895c6628381f",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q37",
+                  "numeric-id": 37
+                }
+              },
+              "hash": "b1425cd2993e3f92c9a14b21af060c59f636b662",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "object type"
+              },
+              "hash": "ca98f1edd9bed00fd72c5d71ea8bf154b0ed8a68",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Pádraig Ó Dálaigh: The holy wells of County Kilkenny II"
+              },
+              "hash": "eb4547f29a3572dea2cc5d45e008a5f05434f997",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Holy Well"
+              },
+              "hash": "db3f38ee637d181d1d454fc911f6e38d45169b1f",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$7298457f-464f-3fe7-e5c9-571b35bd7bf9",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q60554307"
+          },
+          "hash": "b5799b4986d1037f15626a4c8b8df98ca857f031",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q35",
+                  "numeric-id": 35
+                }
+              },
+              "hash": "599368a06165659566260ebd6131cf981d557067",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q41",
+                  "numeric-id": 41
+                }
+              },
+              "hash": "a9ade3628bb83dc30a28b91c8aa5153f16d8eed0",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "civil parish in County Kilkenny, Ireland"
+              },
+              "hash": "181815af321a1b87a035b86f601a9fe28c5bff27",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata (Q121840779)"
+              },
+              "hash": "5512c007cb8159f394c2474432fe400ec853a4c2",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Freshford"
+              },
+              "hash": "c285c08aee18f122c5b9abb7cab525b918fde9b5",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q27$ff915d21-4b23-9c37-6408-9d3bd459ea16",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/freshford-st-lachtains-well-low-poly-ae1e1f4daa7d433dbbf076407134e81e"
+          },
+          "hash": "370b0b4de4642489fd211665835cfac42d4b1cd4",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P18": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q45",
+                  "numeric-id": 45
+                }
+              },
+              "hash": "ff43d310826f45ffe3f3ad9f50dfa8ca6df45fda",
+              "property": "P18",
+              "snaktype": "value"
+            }
+          ],
+          "P19": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "KIRI engine"
+              },
+              "hash": "e38c7e5c11d568d5a336fec7ab692cdebf57f19f",
+              "property": "P19",
+              "snaktype": "value"
+            }
+          ],
+          "P20": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Anne-Karoline Distel"
+              },
+              "hash": "f8ec98181fdc9e348939d9fe5caf04d329103f73",
+              "property": "P20",
+              "snaktype": "value"
+            }
+          ],
+          "P21": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY 4.0"
+              },
+              "hash": "02482a2c704d23e3524f7408a7a010a02f79e132",
+              "property": "P21",
+              "snaktype": "value"
+            }
+          ],
+          "P29": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "iPhone"
+              },
+              "hash": "7e338f97fe2cc10b4fe50a07f37b42e61a0d0bb3",
+              "property": "P29",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P18",
+          "P29",
+          "P19",
+          "P20",
+          "P21"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q27$b31bfaea-4c0a-b74b-5001-2c97be7e859f",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q121840779"
+          },
+          "hash": "f62db5da83618ea4e03f4b431ccde2984f33e1bd",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q27$d179c09f-4bca-20a5-6f61-7a0e51b8eeaf",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "way/935503837"
+          },
+          "hash": "5945706507b787d166d9f6e3e179bcbdbf103f9d",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q27$168a44d0-47fb-2f0e-f652-934a18d564c5",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.731596,
+              "longitude": -7.38951,
+              "precision": 1e-06
+            }
+          },
+          "hash": "60f529c0df6256448cb5dcb6380550a21d708ea5",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q27",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St. Lachtain's Well"
+    }
+  },
+  "lastrevid": 329,
+  "modified": "2026-02-21T17:36:53Z",
+  "ns": 120,
+  "pageid": 36,
+  "sitelinks": {},
+  "title": "Item:Q27",
+  "type": "item"
+}

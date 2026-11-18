@@ -1,0 +1,46 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q28$b231f6d7-4d82-f108-c134-55f915ff510f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q28",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St. Nicholas's Well (Killamery)"
+    }
+  },
+  "lastrevid": 190,
+  "modified": "2025-02-02T20:19:35Z",
+  "ns": 120,
+  "pageid": 37,
+  "sitelinks": {},
+  "title": "Item:Q28",
+  "type": "item"
+}

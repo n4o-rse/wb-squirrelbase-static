@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Well-Known-Text Geometry in WGS84"
+    }
+  },
+  "id": "P17",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "WKT geometry"
+    }
+  },
+  "lastrevid": 236,
+  "modified": "2026-02-21T12:45:20Z",
+  "ns": 122,
+  "pageid": 61,
+  "title": "Property:P17",
+  "type": "property"
+}

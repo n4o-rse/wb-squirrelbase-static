@@ -1,0 +1,128 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q20$9f63210f-40fa-78e8-3759-27abd6f7d279",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17",
+              "numeric-id": 17
+            }
+          },
+          "hash": "fdb7777ca51cc1d2a3b9f22635eb85692128311b",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q20$9c3a7ac7-4c34-36c1-44c8-084f8b1a39bf",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=2c3aa8f0980f475697c1fe01ac13b828"
+          },
+          "hash": "4e2222490ee6a980b539b1e312cf884563579120",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q20$24df1c0f-45b4-1683-0e0c-685738a082a4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q445369"
+          },
+          "hash": "f7a05ea925c2d5ee2b4f4bc443a144b1d411f7a7",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q20$1f147b08-45f1-aa41-8608-4a2a3afbdce1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "relation/14517899"
+          },
+          "hash": "1b7cf772e2c69ce2db35f3e1dd8368c12bc6badb",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q20$5f115307-47b2-7a7d-f7d9-f0d529fbb201",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 46.6966976,
+              "longitude": 12.0838144,
+              "precision": 1e-07
+            }
+          },
+          "hash": "cf73be4e0bf6133901cfbbbc6170413a4517b69d",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "temporal object"
+    },
+    "en": {
+      "language": "en",
+      "value": "temporal object"
+    }
+  },
+  "id": "Q20",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Eismännchen auf dem Pragser Wildsee"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eismännchen auf dem Pragser Wildsee"
+    }
+  },
+  "lastrevid": 155,
+  "modified": "2025-02-01T18:09:43Z",
+  "ns": 120,
+  "pageid": 29,
+  "sitelinks": {},
+  "title": "Item:Q20",
+  "type": "item"
+}

@@ -1,0 +1,58 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q53$986f31ce-4238-c36d-7075-70928d371383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q53$e50ba3c7-4866-0815-4618-56a45311a49a",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/693892087"
+          },
+          "hash": "37ecb7ca622c807b3e5fb64a63b6a33f023bd470",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q53",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Berlin: Briefkasten in der Mommsenstraße"
+    }
+  },
+  "lastrevid": 415,
+  "modified": "2026-02-23T10:41:28Z",
+  "ns": 120,
+  "pageid": 83,
+  "sitelinks": {},
+  "title": "Item:Q53",
+  "type": "item"
+}

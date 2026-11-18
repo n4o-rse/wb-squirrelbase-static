@@ -1,0 +1,666 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q56$eb85ddb9-4ed6-6484-88e0-a94b0b45d3fb",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P11": [
+      {
+        "id": "Q56$8c8d6b80-4850-7bf6-99b7-76384c2e8f6d",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.openstreetmap.org/relation/4629093"
+          },
+          "hash": "009f490e65159bc32fa62f9688bee6361fe46871",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q34",
+                  "numeric-id": 34
+                }
+              },
+              "hash": "562e114590ffe07c8a035e7ad1dea461c99ffffc",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "OSM"
+              },
+              "hash": "1a0acaf1710f49e0653e6b749b528a084fc51dcd",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q38",
+                  "numeric-id": 38
+                }
+              },
+              "hash": "44e136bec9c3ce17ac26250a750c027fb29af570",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "art project"
+              },
+              "hash": "173d27191fc215d997f603b60e025f7d7d4ed3b1",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Literature"
+              },
+              "hash": "1bb2937f8f8f43ef03f8071d33f524f9b2cf70c9",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "7000 Eichen"
+              },
+              "hash": "60edaff6883c9d04fe533df475cb8e4d94964a8a",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56$d5b50593-45d9-93eb-2367-6d5e0fea6d4c",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q261274"
+          },
+          "hash": "a067421ae0ececfbbb172d3e107e3291e2cbd548",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q34",
+                  "numeric-id": 34
+                }
+              },
+              "hash": "562e114590ffe07c8a035e7ad1dea461c99ffffc",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q38",
+                  "numeric-id": 38
+                }
+              },
+              "hash": "44e136bec9c3ce17ac26250a750c027fb29af570",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "art project"
+              },
+              "hash": "173d27191fc215d997f603b60e025f7d7d4ed3b1",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Literature"
+              },
+              "hash": "1bb2937f8f8f43ef03f8071d33f524f9b2cf70c9",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "7000 Eichen"
+              },
+              "hash": "60edaff6883c9d04fe533df475cb8e4d94964a8a",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56$8ff8157e-482f-6a0a-3764-17a574913094",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q138426902"
+          },
+          "hash": "a2b047ad3d40a115f32ab93b282a990d16e21e1b",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q33",
+                  "numeric-id": 33
+                }
+              },
+              "hash": "633295086ebadffecc7fbc5a0c01895c6628381f",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q37",
+                  "numeric-id": 37
+                }
+              },
+              "hash": "b1425cd2993e3f92c9a14b21af060c59f636b662",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "object type"
+              },
+              "hash": "ca98f1edd9bed00fd72c5d71ea8bf154b0ed8a68",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "survey"
+              },
+              "hash": "c5dbb478b5104692332389140a567b5100b78ed8",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Beuys Basaltstele"
+              },
+              "hash": "244b7c6c38b73c9d5e2f969f12d90c46daf75701",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56$85c9fd26-44b3-cc02-0cad-fd85c22700f2",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q153965"
+          },
+          "hash": "db710bd34fa934fe8e84fbbeafba7799272e9aaf",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q35",
+                  "numeric-id": 35
+                }
+              },
+              "hash": "599368a06165659566260ebd6131cf981d557067",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q40",
+                  "numeric-id": 40
+                }
+              },
+              "hash": "99137d6389ed744b00dfc54874f0298ea8a12055",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "artist"
+              },
+              "hash": "99a61efc9274045cce7b6a8db6b0c678deae72d0",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Literature"
+              },
+              "hash": "1bb2937f8f8f43ef03f8071d33f524f9b2cf70c9",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Joseph Beuys"
+              },
+              "hash": "75c5082ae9915a52a0d671f95cd41cbacb9a1037",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q56$b18f46c9-43c1-1c6c-3c1e-8f9c79b4bb4a",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/shareModel/d7b9f1c3000b474a9d38453c06513a1f"
+          },
+          "hash": "019fa54dcbf1b3816b62b87e494695760ff8e648",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P18": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q45",
+                  "numeric-id": 45
+                }
+              },
+              "hash": "ff43d310826f45ffe3f3ad9f50dfa8ca6df45fda",
+              "property": "P18",
+              "snaktype": "value"
+            }
+          ],
+          "P19": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "KIRI engine"
+              },
+              "hash": "e38c7e5c11d568d5a336fec7ab692cdebf57f19f",
+              "property": "P19",
+              "snaktype": "value"
+            }
+          ],
+          "P20": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Florian Thiery"
+              },
+              "hash": "790353e23057e2eddacd90d0e2584f5b114f75af",
+              "property": "P20",
+              "snaktype": "value"
+            }
+          ],
+          "P21": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY 4.0"
+              },
+              "hash": "02482a2c704d23e3524f7408a7a010a02f79e132",
+              "property": "P21",
+              "snaktype": "value"
+            }
+          ],
+          "P29": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Samsung Galaxy S22"
+              },
+              "hash": "73018d8baeee31f18b8c026bc37eb49e1b95766f",
+              "property": "P29",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P18",
+          "P29",
+          "P19",
+          "P20",
+          "P21"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q56$f3005cd3-45f2-978f-e06d-0bf79eeb0434",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/3647679932"
+          },
+          "hash": "90c6fe9593df1ca99627469972e7b4cf9f46999a",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q56$56898816-4d39-e33a-e408-ae5c6730a80b",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 51.3131242,
+              "longitude": 9.4982136,
+              "precision": 1e-07
+            }
+          },
+          "hash": "fd13ecad76c04ed03ea51b598e9ea393d6353418",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9": [
+      {
+        "id": "Q56$707e77ad-4d2d-7371-c9b1-b28e6a36a2cc",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://doi.org/10.5281/zenodo.18742693"
+          },
+          "hash": "a73cae8de7af0233b4a60952f261cbc6207e7a32",
+          "property": "P9",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "fdo:3DDataFDO"
+              },
+              "hash": "0b7a64dc1eed885ef798f834b51a8b2fa60d8816",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "obj"
+              },
+              "hash": "09e71f70e062fd3309d9d9a15ad91fd3c38fe135",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P24": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY 4.0"
+              },
+              "hash": "7ab9de56d10d3a29b36af625c8e488425ee83ef5",
+              "property": "P24",
+              "snaktype": "value"
+            }
+          ],
+          "P25": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "v0.3"
+              },
+              "hash": "4e037801e10d02d93ce23c88da6fe96b2898b979",
+              "property": "P25",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P24",
+          "P25"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q56",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kassel: Beuys-Stele B 1036 “7000 Eichen”"
+    }
+  },
+  "lastrevid": 452,
+  "modified": "2026-02-23T13:35:39Z",
+  "ns": 120,
+  "pageid": 86,
+  "sitelinks": {},
+  "title": "Item:Q56",
+  "type": "item"
+}

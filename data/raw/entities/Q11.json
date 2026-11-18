@@ -1,0 +1,128 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q11$d1d1234d-460e-eadc-487d-9199c83afc3f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q11$bd4cfc81-4f7a-36fe-e2a0-0e562674d25c",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=2f2a937b3cff49c49c0940de4786de8e"
+          },
+          "hash": "9e09f6e8223cc0304d5d783b53b867ecfa36aec7",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q11$b306ee9e-489a-38fa-a293-c2651b8b827f",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q327265"
+          },
+          "hash": "e016a59b48652561247ee4f928a198533687cd2c",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q11$4355bb31-4ba1-ed6b-42fa-8149419fd533",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "way/254154168"
+          },
+          "hash": "a2dd8db89057e7c6eb4d08143dadfc19d95734f2",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q11$9fc5e9c3-4ce7-0bae-2049-a4c2c8633fdc",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 49.410568,
+              "longitude": 8.714044,
+              "precision": 1e-06
+            }
+          },
+          "hash": "9b1848e11e77d3867d93cf2f275b5f1bf0622734",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "object"
+    },
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q11",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gedenkstein von Kurfürst Karl (Schloss Heidelberg)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gedenkstein von Kurfürst Karl (Schloss Heidelberg)"
+    }
+  },
+  "lastrevid": 89,
+  "modified": "2025-02-01T16:45:59Z",
+  "ns": 120,
+  "pageid": 20,
+  "sitelinks": {},
+  "title": "Item:Q11",
+  "type": "item"
+}

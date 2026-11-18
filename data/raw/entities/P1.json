@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {},
+  "id": "P1",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "instance of"
+    }
+  },
+  "lastrevid": 4,
+  "modified": "2025-02-01T14:09:32Z",
+  "ns": 122,
+  "pageid": 4,
+  "title": "Property:P1",
+  "type": "property"
+}

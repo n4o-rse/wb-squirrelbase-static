@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {},
+  "id": "P2",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "subclass of"
+    }
+  },
+  "lastrevid": 5,
+  "modified": "2025-02-01T14:09:54Z",
+  "ns": 122,
+  "pageid": 5,
+  "title": "Property:P2",
+  "type": "property"
+}

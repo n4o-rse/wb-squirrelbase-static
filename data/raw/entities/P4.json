@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {},
+  "id": "P4",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "KIRI URL"
+    }
+  },
+  "lastrevid": 11,
+  "modified": "2025-02-01T15:39:59Z",
+  "ns": 122,
+  "pageid": 9,
+  "title": "Property:P4",
+  "type": "property"
+}

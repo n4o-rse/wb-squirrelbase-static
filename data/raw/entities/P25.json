@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 4"
+    }
+  },
+  "id": "P25",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "FDO release version"
+    }
+  },
+  "lastrevid": 411,
+  "modified": "2026-02-23T09:45:39Z",
+  "ns": 122,
+  "pageid": 69,
+  "title": "Property:P25",
+  "type": "property"
+}

@@ -1,0 +1,54 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q30$1cb9fdc9-4848-438f-4326-0747a7fcd094",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "object"
+    },
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q30",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Letztes Abendmahl mit Judas Iskariot"
+    },
+    "en": {
+      "language": "en",
+      "value": "Letztes Abendmahl mit Judas Iskariot"
+    }
+  },
+  "lastrevid": 196,
+  "modified": "2025-02-11T21:15:42Z",
+  "ns": 120,
+  "pageid": 39,
+  "sitelinks": {},
+  "title": "Item:Q30",
+  "type": "item"
+}

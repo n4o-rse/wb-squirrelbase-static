@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {},
+  "id": "P10",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "aligned with item"
+    }
+  },
+  "lastrevid": 201,
+  "modified": "2026-02-21T12:20:40Z",
+  "ns": 122,
+  "pageid": 41,
+  "title": "Property:P10",
+  "type": "property"
+}

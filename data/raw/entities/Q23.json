@@ -1,0 +1,120 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q23$54f37dc2-4c95-1e74-3db5-c255b59192c0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q23$c5e9b7a7-4b06-69ff-d975-c75a739550b1",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/ballinrannig-vi-ogham-stone-i-ker-020-5b7fa5a083a94c3e86f3aac06aaba9e3"
+          },
+          "hash": "e5af9ef4036fe0f423a1c07c3ea0939954802a04",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q23$7f6032ed-45fb-5693-8180-0f70e88539e5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106680820"
+          },
+          "hash": "3bed79ea0d962af5a48d882f6db42ebf83fdbcca",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q23$d7f5b339-4f01-ae28-0e16-9065e120d1bd",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/11677109638"
+          },
+          "hash": "a4dd0e934d258a11c32a507e97eaae7cf30200e6",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q23$447a06ae-45ea-0633-9a6f-a98491229a25",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.2758257,
+              "longitude": -9.6430769,
+              "precision": 1e-07
+            }
+          },
+          "hash": "a7d9afb531befcf03413ee44cf19247a28bfb458",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q23",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "CIIC 153"
+    }
+  },
+  "lastrevid": 180,
+  "modified": "2025-02-02T19:49:19Z",
+  "ns": 120,
+  "pageid": 32,
+  "sitelinks": {},
+  "title": "Item:Q23",
+  "type": "item"
+}

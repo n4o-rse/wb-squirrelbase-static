@@ -1,0 +1,483 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q52$29455efa-4429-9ed8-98ac-635c8f43b019",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P11": [
+      {
+        "id": "Q52$2694d270-4b4b-dafc-63b9-457875c87db0",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q152445"
+          },
+          "hash": "241dbb319bcfe612b0aa74a46707e7cb6e414515",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q33",
+                  "numeric-id": 33
+                }
+              },
+              "hash": "633295086ebadffecc7fbc5a0c01895c6628381f",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q37",
+                  "numeric-id": 37
+                }
+              },
+              "hash": "b1425cd2993e3f92c9a14b21af060c59f636b662",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "object type"
+              },
+              "hash": "ca98f1edd9bed00fd72c5d71ea8bf154b0ed8a68",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "survey"
+              },
+              "hash": "c5dbb478b5104692332389140a567b5100b78ed8",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Buddy Bär"
+              },
+              "hash": "b710f756beeffc440349f740e0bda7ed5491ac69",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52$9ba1a689-45dc-aac9-a6d5-dd0cee055ce9",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q138426946"
+          },
+          "hash": "857b5834f8de5d7b142118c7159c57b69a699a08",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q35",
+                  "numeric-id": 35
+                }
+              },
+              "hash": "599368a06165659566260ebd6131cf981d557067",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q40",
+                  "numeric-id": 40
+                }
+              },
+              "hash": "99137d6389ed744b00dfc54874f0298ea8a12055",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "creator"
+              },
+              "hash": "67b5ea5a9338c9aae53f2d92106e143065cc0f0e",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Website"
+              },
+              "hash": "73c4701830004fb37dd446de67ee8d8f33d11976",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Nana Topchishvili"
+              },
+              "hash": "8c14e7d8d2cc20aa453ad39591cdd440d64de573",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q52$5ede14a4-4d15-42f2-daa9-fd1299cf53f5",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/shareModel/dbbdb4db9ac54bb8a3b17503deedd761"
+          },
+          "hash": "6b7d6144e9e5003962dada5fe7e57535d5db0c72",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P18": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q45",
+                  "numeric-id": 45
+                }
+              },
+              "hash": "ff43d310826f45ffe3f3ad9f50dfa8ca6df45fda",
+              "property": "P18",
+              "snaktype": "value"
+            }
+          ],
+          "P19": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "KIRI engine"
+              },
+              "hash": "e38c7e5c11d568d5a336fec7ab692cdebf57f19f",
+              "property": "P19",
+              "snaktype": "value"
+            }
+          ],
+          "P20": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Florian Thiery"
+              },
+              "hash": "790353e23057e2eddacd90d0e2584f5b114f75af",
+              "property": "P20",
+              "snaktype": "value"
+            }
+          ],
+          "P21": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY 4.0"
+              },
+              "hash": "02482a2c704d23e3524f7408a7a010a02f79e132",
+              "property": "P21",
+              "snaktype": "value"
+            }
+          ],
+          "P29": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Samsung Galaxy S22"
+              },
+              "hash": "73018d8baeee31f18b8c026bc37eb49e1b95766f",
+              "property": "P29",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P18",
+          "P29",
+          "P19",
+          "P20",
+          "P21"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q52$50fc61b6-4bad-ad09-9813-28f5d71f4341",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q138426731"
+          },
+          "hash": "7560f59e39e1b304453e3a3c99a755a2711c759c",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q52$6addf881-41ee-f702-1a01-f7d5a74cf1cc",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/6743185324"
+          },
+          "hash": "04a99a1cac950489c6723226bb62f71cf1205710",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q52$c769c2c2-4782-c412-8dc5-d8debde579d9",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.5169774,
+              "longitude": 13.3079973,
+              "precision": 1e-07
+            }
+          },
+          "hash": "1fac592869efc12f158bbf46e0fd050b0351741e",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9": [
+      {
+        "id": "Q52$dc5f8ac7-45d4-4694-d006-7670c6903abb",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://doi.org/10.5281/zenodo.18742669"
+          },
+          "hash": "22d77121d5efff52ed73b63bec619bb2b3d02a64",
+          "property": "P9",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "fdo:3DDataFDO"
+              },
+              "hash": "0b7a64dc1eed885ef798f834b51a8b2fa60d8816",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "obj"
+              },
+              "hash": "09e71f70e062fd3309d9d9a15ad91fd3c38fe135",
+              "property": "P23",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "glb"
+              },
+              "hash": "f18e4ee62cdbd854981dd01d769f26c53c5b0603",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P24": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY 4.0"
+              },
+              "hash": "7ab9de56d10d3a29b36af625c8e488425ee83ef5",
+              "property": "P24",
+              "snaktype": "value"
+            }
+          ],
+          "P25": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "v0.3"
+              },
+              "hash": "4e037801e10d02d93ce23c88da6fe96b2898b979",
+              "property": "P25",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P24",
+          "P25"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q52",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Berlin: “Charlotten-Bär” von Nana Topchishvili"
+    }
+  },
+  "lastrevid": 450,
+  "modified": "2026-02-23T13:33:56Z",
+  "ns": 120,
+  "pageid": 82,
+  "sitelinks": {},
+  "title": "Item:Q52",
+  "type": "item"
+}

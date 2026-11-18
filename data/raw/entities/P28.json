@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {},
+  "id": "P28",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "3D File URL"
+    }
+  },
+  "lastrevid": 254,
+  "modified": "2026-02-21T13:26:52Z",
+  "ns": 122,
+  "pageid": 72,
+  "title": "Property:P28",
+  "type": "property"
+}

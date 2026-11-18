@@ -1,0 +1,450 @@
+{
+  "entities": {
+    "P1": {
+      "lastrevid": 4,
+      "modified": "2025-02-01T14:09:32Z",
+      "sha256": "e126ab99c7dfe47b0f2581b285f8d9ab954098f4430bb55e75a1fd12693e5d3a"
+    },
+    "P10": {
+      "lastrevid": 201,
+      "modified": "2026-02-21T12:20:40Z",
+      "sha256": "b7da54f163f1c1447924f03f1f5a6a2e37717c05a31421cae74c0450bed9afc1"
+    },
+    "P11": {
+      "lastrevid": 200,
+      "modified": "2026-02-21T12:19:17Z",
+      "sha256": "a04d7d8bb2e6785c039abf4360b25460abef48794a4c8fce28b07d336fc2931c"
+    },
+    "P12": {
+      "lastrevid": 375,
+      "modified": "2026-02-22T14:50:50Z",
+      "sha256": "f265bb27edba71694ea80d7995fb6fb827ad1570f22a2c648d195554979d4d1f"
+    },
+    "P13": {
+      "lastrevid": 377,
+      "modified": "2026-02-22T14:51:09Z",
+      "sha256": "09f25530f0bdc0f132e21c9914356264a0ad9de94831ab9b38765775b19ba5bc"
+    },
+    "P14": {
+      "lastrevid": 376,
+      "modified": "2026-02-22T14:50:58Z",
+      "sha256": "c6a368207c275acd0717a7e4c0f3ecae67be7fc40fd84f6e616df6c37238f223"
+    },
+    "P15": {
+      "lastrevid": 378,
+      "modified": "2026-02-22T14:51:20Z",
+      "sha256": "98013f7412a101c5bb52a55c0fca320b0f1fe30f458ba25bff1c17a2868bdeea"
+    },
+    "P16": {
+      "lastrevid": 379,
+      "modified": "2026-02-22T14:51:26Z",
+      "sha256": "cf884928a32525f47117208b947c8bbbf17e9579e6287fe13b1d00d02be5345b"
+    },
+    "P17": {
+      "lastrevid": 236,
+      "modified": "2026-02-21T12:45:20Z",
+      "sha256": "9243cd1be8739770823c184fe683dfcb8d68521dd24ea892ff5aae8a5892818e"
+    },
+    "P18": {
+      "lastrevid": 380,
+      "modified": "2026-02-22T14:52:01Z",
+      "sha256": "8cd0f48a17546e5cf8e1bab51e2b231f6bdb244b52d8c31b591fc4676b82c0be"
+    },
+    "P19": {
+      "lastrevid": 382,
+      "modified": "2026-02-22T14:52:15Z",
+      "sha256": "bd20dfcf8fdaa44c72f7eb1a09cadc53672a36d9dd01da4203100082a7062cd3"
+    },
+    "P2": {
+      "lastrevid": 5,
+      "modified": "2025-02-01T14:09:54Z",
+      "sha256": "571b0fd2d7f9c8ada5cdd44e90da3e81b7f3e35e77d16f7d5dc973509ddc8014"
+    },
+    "P20": {
+      "lastrevid": 383,
+      "modified": "2026-02-22T14:52:28Z",
+      "sha256": "232d4401d7b48068a5322513494f8e32d7d132e474729047c0a5a6ce8cd720d4"
+    },
+    "P21": {
+      "lastrevid": 384,
+      "modified": "2026-02-22T14:52:39Z",
+      "sha256": "52dd3fa765d9cb87e00446b516fcd0fa947e9b0d4ee6566d2e162ae67d4d618a"
+    },
+    "P22": {
+      "lastrevid": 408,
+      "modified": "2026-02-23T09:45:17Z",
+      "sha256": "c687dba9f865da606b2db54091bf6a1843e41729e4cc525877f5538c4fa7ff3e"
+    },
+    "P23": {
+      "lastrevid": 412,
+      "modified": "2026-02-23T09:45:52Z",
+      "sha256": "2d911107703770d87ebf4ec5fde6cbd10f03f076d5aee394b111a4e76925db9c"
+    },
+    "P24": {
+      "lastrevid": 410,
+      "modified": "2026-02-23T09:45:32Z",
+      "sha256": "ee06d4b7eaaf39777ad71d48fa1d7ae7634a2ae001f8e05445b84547adfaa526"
+    },
+    "P25": {
+      "lastrevid": 411,
+      "modified": "2026-02-23T09:45:39Z",
+      "sha256": "65227de0774cdbd5dae73121818ddc4b9f5f77842304d66fe2280bde46bfde55"
+    },
+    "P26": {
+      "lastrevid": 245,
+      "modified": "2026-02-21T13:09:55Z",
+      "sha256": "133a3bb7b01f09e9b9ecb014194eb8ee55b1b29bc5c85a535529b85c0180d58f"
+    },
+    "P27": {
+      "lastrevid": 374,
+      "modified": "2026-02-22T14:50:39Z",
+      "sha256": "b517bd68a07247fc0814c0a0ef4b59b860a2d2473fb9a36bf2d200e519d0d54b"
+    },
+    "P28": {
+      "lastrevid": 254,
+      "modified": "2026-02-21T13:26:52Z",
+      "sha256": "cdad98f552676878899682ebbce964f9f74ee0453bf202590f006edc31baaa9e"
+    },
+    "P29": {
+      "lastrevid": 381,
+      "modified": "2026-02-22T14:52:09Z",
+      "sha256": "7ee67003d70e449c5c28bb9acdffe396357fee6f96da910edfd48255110e5883"
+    },
+    "P3": {
+      "lastrevid": 10,
+      "modified": "2025-02-01T15:39:38Z",
+      "sha256": "074777c7041af947faedd394ac84f55b07df35907dce0a0299564e154e59b337"
+    },
+    "P4": {
+      "lastrevid": 11,
+      "modified": "2025-02-01T15:39:59Z",
+      "sha256": "cc7fad46dd7a9479433ba61ce49650461190e47459d00f6b78ca11faed91bf3c"
+    },
+    "P5": {
+      "lastrevid": 12,
+      "modified": "2025-02-01T15:40:11Z",
+      "sha256": "028f43537e285c543731cbba6824ae0279672a1f240c2744d07af4b47cb921bb"
+    },
+    "P6": {
+      "lastrevid": 13,
+      "modified": "2025-02-01T15:41:20Z",
+      "sha256": "4db33725af7271d800789627ce5303957368830407b2a80889de561827489265"
+    },
+    "P7": {
+      "lastrevid": 15,
+      "modified": "2025-02-01T15:41:51Z",
+      "sha256": "9a336ca8c8c67da6d6dd5bb701879dd64adb6710b5da5c155ca756c2872abc49"
+    },
+    "P8": {
+      "lastrevid": 235,
+      "modified": "2026-02-21T12:44:07Z",
+      "sha256": "3689daf9c64b1f4ebcf91f7ad631a88a3bb98ec0e1d73374c21a48d328325b19"
+    },
+    "P9": {
+      "lastrevid": 198,
+      "modified": "2026-02-21T12:15:03Z",
+      "sha256": "a26c2f68d634c78120923379e998d918f3b92647f1f77e30f0b8dca6bc4a6f39"
+    },
+    "Q1": {
+      "lastrevid": 2,
+      "modified": "2025-02-01T14:09:03Z",
+      "sha256": "45daeebd46db7f7e7fca6a70e570c0f6e3a4d7d93fd1749cd2877aeccde8c2ff"
+    },
+    "Q10": {
+      "lastrevid": 81,
+      "modified": "2025-02-01T16:34:17Z",
+      "sha256": "dcc173f009d7dfc1e1a3c6d2dcce7a96eab17da3c61b6b14b538e3392d11a224"
+    },
+    "Q11": {
+      "lastrevid": 89,
+      "modified": "2025-02-01T16:45:59Z",
+      "sha256": "7f94b8ffaac450fbde379ff7c5c398f597119d390ba65354803a98d5671bcdf6"
+    },
+    "Q12": {
+      "lastrevid": 97,
+      "modified": "2025-02-01T16:49:47Z",
+      "sha256": "6643fe423b98c57e06eb999cf48968a4340d807c63205528031c10936986d8a3"
+    },
+    "Q13": {
+      "lastrevid": 105,
+      "modified": "2025-02-01T16:58:00Z",
+      "sha256": "3af8033906c1a78fbdb83ad74c942ed37abe7a3cc59002631b07c2555667bdbf"
+    },
+    "Q14": {
+      "lastrevid": 113,
+      "modified": "2025-02-01T17:03:40Z",
+      "sha256": "78a452b9cd144e4f254df235a93226cff506720f0cf00581c3d8c4aa1afb7e2f"
+    },
+    "Q15": {
+      "lastrevid": 121,
+      "modified": "2025-02-01T17:13:39Z",
+      "sha256": "dd2d20c88b4a0fe705d8d03f2ebd1dbde86788845671e256711264ae2f9479c2"
+    },
+    "Q16": {
+      "lastrevid": 132,
+      "modified": "2025-02-01T17:42:00Z",
+      "sha256": "d28b46dd0f687018df05555ab5dbc7371ad881e9902bedc6ec3a9a72761b3188"
+    },
+    "Q17": {
+      "lastrevid": 134,
+      "modified": "2025-02-01T17:50:33Z",
+      "sha256": "268db7874e11562e911d98d6711050d1235319d83d6c9d1e9c2e4aee01a93931"
+    },
+    "Q18": {
+      "lastrevid": 140,
+      "modified": "2025-02-01T17:51:47Z",
+      "sha256": "963405b1074a1e93329597072263bed353a22a6f14b046fc75aa8d2c4c036bc0"
+    },
+    "Q19": {
+      "lastrevid": 147,
+      "modified": "2025-02-01T17:58:11Z",
+      "sha256": "2500101573e56192e00e5681e569ef672b71a0a8d4827878637cd670e33a5f54"
+    },
+    "Q2": {
+      "lastrevid": 3,
+      "modified": "2025-02-01T14:09:14Z",
+      "sha256": "388fe0a60ce4e81bbe4c57b944dedb8729a55e0ce1e6bfabc169f3b4265195d2"
+    },
+    "Q20": {
+      "lastrevid": 155,
+      "modified": "2025-02-01T18:09:43Z",
+      "sha256": "c9f52a6dd12f4dd2ba26704864f78fb13c9fc948078a3b11b0b945ccc906dd65"
+    },
+    "Q21": {
+      "lastrevid": 163,
+      "modified": "2025-02-01T18:12:09Z",
+      "sha256": "086383a5e9d9d93bd4e2fdd8687c9973b10ed616bd00941bbc8e391173166e04"
+    },
+    "Q22": {
+      "lastrevid": 175,
+      "modified": "2025-02-02T19:44:26Z",
+      "sha256": "bc1b75ba3cfaff1b14183b01557cee5826c9f64b15e8261428b71c6be3a84646"
+    },
+    "Q23": {
+      "lastrevid": 180,
+      "modified": "2025-02-02T19:49:19Z",
+      "sha256": "3a3160947f25214a5b11326619e24cb585393f9eb431b6cc2057ff4647aeeba3"
+    },
+    "Q24": {
+      "lastrevid": 290,
+      "modified": "2026-02-21T14:38:49Z",
+      "sha256": "377ebb557a793de12001fa6b23e2e9fd180d9beee53b15ec47f4992032675409"
+    },
+    "Q25": {
+      "lastrevid": 454,
+      "modified": "2026-02-23T14:55:27Z",
+      "sha256": "11e1b4440beaddff4c0e2539cc9146008f33af4bafdeabf49af1304285506ce6"
+    },
+    "Q27": {
+      "lastrevid": 329,
+      "modified": "2026-02-21T17:36:53Z",
+      "sha256": "c637c8c4b9910c18368f0826196b2720ada4f3f6207e811449610f2d66106bae"
+    },
+    "Q28": {
+      "lastrevid": 190,
+      "modified": "2025-02-02T20:19:35Z",
+      "sha256": "aabd839359ba15d73855bd421bf0ff81196bb2c468d73f0bf809ffb1a5421e62"
+    },
+    "Q29": {
+      "lastrevid": 192,
+      "modified": "2025-02-02T20:20:23Z",
+      "sha256": "c187a5ae15d7633fae7df7d692aab5b28b8c0228d16ef087ad55198d073e35cc"
+    },
+    "Q30": {
+      "lastrevid": 196,
+      "modified": "2025-02-11T21:15:42Z",
+      "sha256": "95adcbee13b76bdaa8d6028415e15271f7b706fa880fcfc0a0ea84c32a093f05"
+    },
+    "Q31": {
+      "lastrevid": 209,
+      "modified": "2026-02-21T12:35:45Z",
+      "sha256": "a53421ac7523c13d6f5103574218ce484f12c92b5ce6811296c12f8f43e66cbe"
+    },
+    "Q32": {
+      "lastrevid": 211,
+      "modified": "2026-02-21T12:36:03Z",
+      "sha256": "97e8a98dd16e554c434c11c27c01cd4f36aef04cff641f6e347570504bc520e0"
+    },
+    "Q33": {
+      "lastrevid": 213,
+      "modified": "2026-02-21T12:36:27Z",
+      "sha256": "fca21ad71648c9a7aa992d0df7b39308cbf27067966819ea259ff340d66cec4b"
+    },
+    "Q34": {
+      "lastrevid": 215,
+      "modified": "2026-02-21T12:36:43Z",
+      "sha256": "631980d9f1d459e4a7153ed1f286407fc533ac213e794ac4b41e4f154b59a16a"
+    },
+    "Q35": {
+      "lastrevid": 217,
+      "modified": "2026-02-21T12:37:02Z",
+      "sha256": "5b626159180b2d830befb3a92bed7b0c60bd71c7c7964c7997b416239a34c31f"
+    },
+    "Q36": {
+      "lastrevid": 219,
+      "modified": "2026-02-21T12:38:09Z",
+      "sha256": "340e745e4c98feb8b642520a695641408687344af0764f07deb110b062473b04"
+    },
+    "Q37": {
+      "lastrevid": 221,
+      "modified": "2026-02-21T12:38:57Z",
+      "sha256": "97bd52cbb9c5460d81e3d1193a348cf27d1fce9596e8b90592f709785846ce57"
+    },
+    "Q38": {
+      "lastrevid": 223,
+      "modified": "2026-02-21T12:40:41Z",
+      "sha256": "6457b58e90863202c75ddd4ba70759e5a6df58a0480d290cf713b9123406f3b2"
+    },
+    "Q39": {
+      "lastrevid": 225,
+      "modified": "2026-02-21T12:41:12Z",
+      "sha256": "6cff1760ca3825f0f1dcaa65b9632358d0985a82fd5da1a0c2f3a464f9763cc3"
+    },
+    "Q4": {
+      "lastrevid": 26,
+      "modified": "2025-02-01T15:55:55Z",
+      "sha256": "aebece89ae419f3eb8f4ab4bef8a2d8b5124a10de718152088f9a2c5a5e51e9a"
+    },
+    "Q40": {
+      "lastrevid": 227,
+      "modified": "2026-02-21T12:41:27Z",
+      "sha256": "31b2a316efaebff83ef11b8aab50c2f74b638dc91d8a7eae26464cf1cb30aabc"
+    },
+    "Q41": {
+      "lastrevid": 229,
+      "modified": "2026-02-21T12:41:43Z",
+      "sha256": "f6977446f2dc58ea5b47b5a29879ebb7107fe3b18619b94940a6bec50057b438"
+    },
+    "Q42": {
+      "lastrevid": 231,
+      "modified": "2026-02-21T12:41:56Z",
+      "sha256": "5ee96fbcd6a3e237999b1701653b3be4e93e0fe4a7a99731bc4b86363ba192ba"
+    },
+    "Q43": {
+      "lastrevid": 233,
+      "modified": "2026-02-21T12:42:12Z",
+      "sha256": "88eaaaffc18f0fc4f54da374530c442330398ba16fb3578ce1a59d7e2eebaba8"
+    },
+    "Q44": {
+      "lastrevid": 262,
+      "modified": "2026-02-21T13:37:20Z",
+      "sha256": "dc0d0e15f692b8aa1854b57fb573a617190091c31a876829886f61e2d39913d1"
+    },
+    "Q45": {
+      "lastrevid": 264,
+      "modified": "2026-02-21T13:37:51Z",
+      "sha256": "a1f4aefbadb32ff6f47e12779f971e3bd45eee7980740333c2d1f035f30e7aeb"
+    },
+    "Q46": {
+      "lastrevid": 266,
+      "modified": "2026-02-21T13:38:30Z",
+      "sha256": "91d56d4100e2a0ae272a7bfd9a94a5d633acc6a7d648ce0d748287303b2232a0"
+    },
+    "Q47": {
+      "lastrevid": 268,
+      "modified": "2026-02-21T13:38:58Z",
+      "sha256": "7599b4b24b9d48ad97cc9288571365d21c61b3da2e631e05941bee7a84b78b2f"
+    },
+    "Q48": {
+      "lastrevid": 453,
+      "modified": "2026-02-23T14:28:13Z",
+      "sha256": "193d9280f03bdee44b6da7b80a04a1275d14df5202a1371dc3b8d0cfaebc42c9"
+    },
+    "Q49": {
+      "lastrevid": 312,
+      "modified": "2026-02-21T16:59:29Z",
+      "sha256": "3e462757a4cff044f595dff606890c2c51d55b6e43aea65f00f3a494dc75b1fa"
+    },
+    "Q5": {
+      "lastrevid": 36,
+      "modified": "2025-02-01T16:04:48Z",
+      "sha256": "ccc30c93ad2916efa73016ea6eeac2e56660d30e8cdfae5a75af7e97cf6b4277"
+    },
+    "Q50": {
+      "lastrevid": 321,
+      "modified": "2026-02-21T17:19:29Z",
+      "sha256": "b338df3a0a0fc6b80f37e02b4d08695ae54660360bbfd39be7d621d6fa490049"
+    },
+    "Q51": {
+      "lastrevid": 344,
+      "modified": "2026-02-21T18:02:19Z",
+      "sha256": "1cabf7775533fdd42d23e013766c56d2c978b1d14d69784683608fcac2b283db"
+    },
+    "Q52": {
+      "lastrevid": 450,
+      "modified": "2026-02-23T13:33:56Z",
+      "sha256": "668bd823d4189818ec241c437a75442c390a4de23fe9e7c71fd804af13e787ab"
+    },
+    "Q53": {
+      "lastrevid": 415,
+      "modified": "2026-02-23T10:41:28Z",
+      "sha256": "3b1e258d2755c8661dcf625331a2b650ed9129bff62894358dfb490193525e18"
+    },
+    "Q54": {
+      "lastrevid": 418,
+      "modified": "2026-02-23T10:42:25Z",
+      "sha256": "1cf5a557156f09a6f58a9e7b59411b09277e3f9c2085a50844bb3869d6e146e3"
+    },
+    "Q55": {
+      "lastrevid": 413,
+      "modified": "2026-02-23T09:46:45Z",
+      "sha256": "b71496dcc9bec5d626fbe7927232656459d52d356c5948b052027a54c3c38a75"
+    },
+    "Q56": {
+      "lastrevid": 452,
+      "modified": "2026-02-23T13:35:39Z",
+      "sha256": "267f292827ab1ec9efc1a0db2cad785fcd9b556d054d7974131733aa92ad36f9"
+    },
+    "Q57": {
+      "lastrevid": 425,
+      "modified": "2026-02-23T11:37:09Z",
+      "sha256": "8b1c1bf5dd67bc530c5bee0b75637c335adceefc74899c02ba30d5ad320f64a1"
+    },
+    "Q58": {
+      "lastrevid": 416,
+      "modified": "2026-02-23T10:41:55Z",
+      "sha256": "37ad915b18f01d32d3ecdfb54050692ede230836cbffb9865efb204a5af82435"
+    },
+    "Q59": {
+      "lastrevid": 422,
+      "modified": "2026-02-23T11:27:52Z",
+      "sha256": "be92b328d939d42d011fd1ef49fde5a092462e02d0a811eddafd346833403892"
+    },
+    "Q6": {
+      "lastrevid": 45,
+      "modified": "2025-02-01T16:13:16Z",
+      "sha256": "9d3736978bc5bfdf39630db5ba4067566b7f40aa092e3ca861b06e9d95dda80b"
+    },
+    "Q60": {
+      "lastrevid": 390,
+      "modified": "2026-02-22T21:24:56Z",
+      "sha256": "7fe12459b3ac771a0e2408d7843b2f965a0af82c8263b8fdd9163b480d1f54bc"
+    },
+    "Q7": {
+      "lastrevid": 64,
+      "modified": "2025-02-01T16:19:32Z",
+      "sha256": "ad7540309cc66e5956236334b2d798704230222d22f58e7e61eca7343e85908e"
+    },
+    "Q8": {
+      "lastrevid": 66,
+      "modified": "2025-02-01T16:19:55Z",
+      "sha256": "90dff0cfb7cffd8d543d2f0807d3833016319a0084b7396f4544a5c7c50732a7"
+    },
+    "Q9": {
+      "lastrevid": 74,
+      "modified": "2025-02-01T16:27:23Z",
+      "sha256": "3f256851d205857e76f9d08fb90af42bd0ea2052cab548a9683c108accee16e5"
+    }
+  },
+  "latest_modified": "2026-02-23T14:55:27Z",
+  "schema": 1,
+  "source": {
+    "api": "https://squirrelbase.wikibase.cloud/w/api.php",
+    "generator": "MediaWiki 1.43.11",
+    "namespaces": {
+      "item": 120,
+      "property": 122
+    },
+    "url": "https://squirrelbase.wikibase.cloud"
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "CIIC 242"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q50$66f603e6-490c-e631-b3d3-944e1133001f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P11": [
+      {
+        "id": "Q50$9ca2caee-4a79-9156-5fce-ab812c6a3455",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q2016147"
+          },
+          "hash": "ddfa763e5b997dbdf398565a8307d0cde100b2cf",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q33",
+                  "numeric-id": 33
+                }
+              },
+              "hash": "633295086ebadffecc7fbc5a0c01895c6628381f",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q37",
+                  "numeric-id": 37
+                }
+              },
+              "hash": "b1425cd2993e3f92c9a14b21af060c59f636b662",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "object type"
+              },
+              "hash": "ca98f1edd9bed00fd72c5d71ea8bf154b0ed8a68",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "OSM"
+              },
+              "hash": "8ba1ffce38083649daea69e1720fea47f850b1eb",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Ogham Stone"
+              },
+              "hash": "4073afe9affce9be3af259f29c7c51c401f0db40",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50$37227939-42c6-d57c-e11b-d4e2e6b94288",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q30247109"
+          },
+          "hash": "37bbea5598c3094a67b00040ea9fb85d4e7fdb59",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q35",
+                  "numeric-id": 35
+                }
+              },
+              "hash": "599368a06165659566260ebd6131cf981d557067",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q41",
+                  "numeric-id": 41
+                }
+              },
+              "hash": "a9ade3628bb83dc30a28b91c8aa5153f16d8eed0",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "exhibition"
+              },
+              "hash": "2719fbb57c1155c53aa73648375934d6c89a42a8",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "OSM"
+              },
+              "hash": "8ba1ffce38083649daea69e1720fea47f850b1eb",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Aghadoe Early Medieval Ecclesiastical Site"
+              },
+              "hash": "1bc447fce449c4c87baa2dd04a0f9be18af8d467",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P28": [
+      {
+        "id": "Q50$3640530e-45d4-b11c-e5b5-c2c9e3fde6e5",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ogham.celt.dias.ie/version2013/stone.php?lang=en&site=Parkavonear&stone=242._Parkavonear&stoneinfo=inscription"
+          },
+          "hash": "e79cad59a655f8a779b2a8276f4288db88ec1449",
+          "property": "P28",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P18": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q46",
+                  "numeric-id": 46
+                }
+              },
+              "hash": "5aa3f861e3cc6c4c491eb9f1f2d538869e0c5aa6",
+              "property": "P18",
+              "snaktype": "value"
+            }
+          ],
+          "P19": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Geomagic"
+              },
+              "hash": "757888924aec15625decddecd8199ae961778c65",
+              "property": "P19",
+              "snaktype": "value"
+            }
+          ],
+          "P20": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Gary Devlin, Discovery Programme"
+              },
+              "hash": "bbb04e915e2dd4cbde78dff0ab9382df7c989af8",
+              "property": "P20",
+              "snaktype": "value"
+            }
+          ],
+          "P21": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY-NC-SA 3.0 Ireland"
+              },
+              "hash": "858a8ab1696a5f6b1c19482b867083e12e423edb",
+              "property": "P21",
+              "snaktype": "value"
+            }
+          ],
+          "P29": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Artec Eva scanner"
+              },
+              "hash": "e9c7bbbeab830b85370bee0c29ca073e09ab9633",
+              "property": "P29",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P18",
+          "P29",
+          "P19",
+          "P20",
+          "P21"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q50$959cc8e7-4edf-1463-bf1d-c2f7615cb066",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/parkavonear-ogham-stone-4a214a15d68e46d3ae985bcb528b3e02"
+          },
+          "hash": "d8fa826067c385e15caaaa41cc1a14d82a357bc5",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P18": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q46",
+                  "numeric-id": 46
+                }
+              },
+              "hash": "5aa3f861e3cc6c4c491eb9f1f2d538869e0c5aa6",
+              "property": "P18",
+              "snaktype": "value"
+            }
+          ],
+          "P19": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Geomagic"
+              },
+              "hash": "757888924aec15625decddecd8199ae961778c65",
+              "property": "P19",
+              "snaktype": "value"
+            }
+          ],
+          "P20": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Gary Devlin, Discovery Programme"
+              },
+              "hash": "bbb04e915e2dd4cbde78dff0ab9382df7c989af8",
+              "property": "P20",
+              "snaktype": "value"
+            }
+          ],
+          "P21": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY-NC-SA 3.0 Ireland"
+              },
+              "hash": "858a8ab1696a5f6b1c19482b867083e12e423edb",
+              "property": "P21",
+              "snaktype": "value"
+            }
+          ],
+          "P29": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Artec Eva scanner"
+              },
+              "hash": "e9c7bbbeab830b85370bee0c29ca073e09ab9633",
+              "property": "P29",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P18",
+          "P29",
+          "P19",
+          "P20",
+          "P21"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q50$f41caad8-4623-b76a-d43b-b436499ec42f",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/10040757680"
+          },
+          "hash": "fc1cbadb7d77bf3f4dc7bb52721d2fb221a5783e",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q50$04d0134b-416a-6090-f4de-e852a5b864a6",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.0767683,
+              "longitude": -9.5543233,
+              "precision": 1e-07
+            }
+          },
+          "hash": "b19d2c836ca6756866b48f4bb2605abb1e4dd268",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q50",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Páirc an Mhóinéir | Parkavonear 1 (I-KER-112)"
+    }
+  },
+  "lastrevid": 321,
+  "modified": "2026-02-21T17:19:29Z",
+  "ns": 120,
+  "pageid": 80,
+  "sitelinks": {},
+  "title": "Item:Q50",
+  "type": "item"
+}

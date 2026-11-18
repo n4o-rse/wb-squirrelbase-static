@@ -1,0 +1,41 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q45$de79f65b-4d98-d820-47dd-552b6930044c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44",
+              "numeric-id": 44
+            }
+          },
+          "hash": "0c325a3f049c99e6891bf8ce55878d9356d58693",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q45",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Structure from Motion (SfM)"
+    }
+  },
+  "lastrevid": 264,
+  "modified": "2026-02-21T13:37:51Z",
+  "ns": 120,
+  "pageid": 74,
+  "sitelinks": {},
+  "title": "Item:Q45",
+  "type": "item"
+}

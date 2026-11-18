@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 2"
+    }
+  },
+  "id": "P23",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "FDO format"
+    }
+  },
+  "lastrevid": 412,
+  "modified": "2026-02-23T09:45:52Z",
+  "ns": 122,
+  "pageid": 67,
+  "title": "Property:P23",
+  "type": "property"
+}

@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {},
+  "id": "P7",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "OSM ID"
+    }
+  },
+  "lastrevid": 15,
+  "modified": "2025-02-01T15:41:51Z",
+  "ns": 122,
+  "pageid": 12,
+  "title": "Property:P7",
+  "type": "property"
+}

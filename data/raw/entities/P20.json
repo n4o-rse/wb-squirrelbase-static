@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 4"
+    }
+  },
+  "id": "P20",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "acquisition creator"
+    }
+  },
+  "lastrevid": 383,
+  "modified": "2026-02-22T14:52:28Z",
+  "ns": 122,
+  "pageid": 64,
+  "title": "Property:P20",
+  "type": "property"
+}

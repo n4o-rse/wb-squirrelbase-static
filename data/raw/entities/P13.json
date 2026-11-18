@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 4"
+    }
+  },
+  "id": "P13",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alignment repository"
+    }
+  },
+  "lastrevid": 377,
+  "modified": "2026-02-22T14:51:09Z",
+  "ns": 122,
+  "pageid": 44,
+  "title": "Property:P13",
+  "type": "property"
+}

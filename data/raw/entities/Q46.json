@@ -1,0 +1,41 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q46$def5291e-4bc5-990e-052a-2d3a29ad3bcf",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44",
+              "numeric-id": 44
+            }
+          },
+          "hash": "0c325a3f049c99e6891bf8ce55878d9356d58693",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q46",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Laser Scan"
+    }
+  },
+  "lastrevid": 266,
+  "modified": "2026-02-21T13:38:30Z",
+  "ns": 120,
+  "pageid": 75,
+  "sitelinks": {},
+  "title": "Item:Q46",
+  "type": "item"
+}

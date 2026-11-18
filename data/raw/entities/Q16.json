@@ -1,0 +1,128 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q16$0258172a-4037-624f-b38f-727c405ac56b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q16$da371f18-4be2-a931-3f15-84c014f0c8be",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=8a4052cbe9ec4924954073f1ea13355e"
+          },
+          "hash": "f6aba9b3d3932dd860f8d343a0fa070e22419ff1",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q16$001105ea-4aa4-9318-5e20-0b9008234cbb",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q572562"
+          },
+          "hash": "a97d6eb0111f8d5eadc2a5e603bee7215de0bd84",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q16$709fcd7d-41a0-680e-b1ba-7fed4e8f59f3",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/12549447475"
+          },
+          "hash": "4a9b2ef7e2f08e67099afdfb1213724bb2947728",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q16$a66147cd-4526-f527-70d6-a06d228829ad",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 46.8825371,
+              "longitude": 12.1679203,
+              "precision": 1e-07
+            }
+          },
+          "hash": "eac715e9af8c01d43fdfb92dd66e967e3c8a1d6c",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "object"
+    },
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q16",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Statua del Mendicante di Anterselva"
+    },
+    "en": {
+      "language": "en",
+      "value": "Statua del Mendicante di Anterselva"
+    }
+  },
+  "lastrevid": 132,
+  "modified": "2025-02-01T17:42:00Z",
+  "ns": 120,
+  "pageid": 25,
+  "sitelinks": {},
+  "title": "Item:Q16",
+  "type": "item"
+}

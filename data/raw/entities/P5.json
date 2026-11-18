@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {},
+  "id": "P5",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sketchfab URL"
+    }
+  },
+  "lastrevid": 12,
+  "modified": "2025-02-01T15:40:11Z",
+  "ns": 122,
+  "pageid": 10,
+  "title": "Property:P5",
+  "type": "property"
+}

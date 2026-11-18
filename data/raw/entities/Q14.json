@@ -1,0 +1,128 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q14$fb877e22-45e6-8d1d-2c5d-a5756964d6b9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q14$46fc069f-478b-f68b-9735-30652f45979c",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=eae936fcda6b4763b47cbc594f8fead2"
+          },
+          "hash": "d0e5ac20e460e70d66e1316ec7f937b152e86c80",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q14$641d2e94-41f2-586f-8549-044068bb859d",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q122573616"
+          },
+          "hash": "e044de856774e78eb02cf58d3fdeccbfa06cd9fb",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q14$fef24498-42c7-8385-1f06-057632bfceab",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "way/1314789890"
+          },
+          "hash": "7d1a706960a5c55c73537968fe5c5c8e29f162b5",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q14$876199b2-4a9f-567d-2029-ec60735eb7a4",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 49.407556,
+              "longitude": 8.190597,
+              "precision": 1e-06
+            }
+          },
+          "hash": "d255c4dbbf369bc370d317fc3c4f13ac772ff894",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "object"
+    },
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q14",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Geißbockbrunnen (Deidesheim)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Geißbockbrunnen (Deidesheim)"
+    }
+  },
+  "lastrevid": 113,
+  "modified": "2025-02-01T17:03:40Z",
+  "ns": 120,
+  "pageid": 23,
+  "sitelinks": {},
+  "title": "Item:Q14",
+  "type": "item"
+}

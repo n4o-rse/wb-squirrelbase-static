@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Link to a FAIR Digital Object"
+    }
+  },
+  "id": "P9",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "FDO URL"
+    }
+  },
+  "lastrevid": 198,
+  "modified": "2026-02-21T12:15:03Z",
+  "ns": 122,
+  "pageid": 40,
+  "title": "Property:P9",
+  "type": "property"
+}

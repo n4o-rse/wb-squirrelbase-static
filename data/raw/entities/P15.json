@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 5"
+    }
+  },
+  "id": "P15",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alignment description"
+    }
+  },
+  "lastrevid": 378,
+  "modified": "2026-02-22T14:51:20Z",
+  "ns": 122,
+  "pageid": 46,
+  "title": "Property:P15",
+  "type": "property"
+}

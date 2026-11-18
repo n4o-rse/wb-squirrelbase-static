@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 6"
+    }
+  },
+  "id": "P16",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alignment source"
+    }
+  },
+  "lastrevid": 379,
+  "modified": "2026-02-22T14:51:26Z",
+  "ns": 122,
+  "pageid": 47,
+  "title": "Property:P16",
+  "type": "property"
+}

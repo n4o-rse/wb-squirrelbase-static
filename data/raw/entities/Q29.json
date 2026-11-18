@@ -1,0 +1,46 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q29$efa2088a-4308-adc8-3829-f9c1ec4b3640",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q29",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Saint Molin's Well (Mullennakill)"
+    }
+  },
+  "lastrevid": 192,
+  "modified": "2025-02-02T20:20:23Z",
+  "ns": 120,
+  "pageid": 38,
+  "sitelinks": {},
+  "title": "Item:Q29",
+  "type": "item"
+}

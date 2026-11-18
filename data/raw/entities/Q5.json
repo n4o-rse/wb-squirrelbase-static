@@ -1,0 +1,162 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q5$1bb1529b-4669-74b0-7f4a-92b7c13e1d2a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q5$a15bbe07-48ab-d022-50ce-54fc94d89573",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://archaeosquirrels.cloud/?model=NLRMR-36638"
+          },
+          "hash": "b9de7f644abd408ca055ef1f7b0f3e3715631758",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q5$83968422-485e-bd2d-351b-fd223cfd39ee",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=dcd671b0a514419988848b71f7b6b562"
+          },
+          "hash": "8dbcaf479065d4c2bcf53e1fd7028edac456595e",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q5$e974472e-4ad2-eee9-58bf-d1ccaaece4cf",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/adlerstein-grenzstein-in-aachen-ca827c32825c44f98a18eca178d5519b"
+          },
+          "hash": "5caea526475f5ceb043ee48cf21d98e5ce3e86a1",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q5$7ea60269-49f4-c467-571a-80e05328c746",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17445038"
+          },
+          "hash": "0a25efa83baa599cba69e22cf6706fb0e4a5bd85",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q5$ef77c43f-4744-7f20-5eb9-24288cd24bea",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/1128569466"
+          },
+          "hash": "02ddd82c597cd82a8fce3343de5bbe17e43ca8c9",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q5$074cbd86-4fb8-8451-3be2-ce0d75cc527e",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 50.7617299,
+              "longitude": 6.0187331,
+              "precision": 1e-07
+            }
+          },
+          "hash": "100dc62bc57a624be5a1ee8155326ecfcf4a8951",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "object"
+    },
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q5",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Adlerstein in Vaals (Niederlande)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adlerstein in Vaals (Niederlande)"
+    }
+  },
+  "lastrevid": 36,
+  "modified": "2025-02-01T16:04:48Z",
+  "ns": 120,
+  "pageid": 14,
+  "sitelinks": {},
+  "title": "Item:Q5",
+  "type": "item"
+}

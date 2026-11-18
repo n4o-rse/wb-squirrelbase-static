@@ -1,0 +1,480 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "CIIC 187"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q49$a93b4814-4c57-1b34-065c-5f838298785c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P11": [
+      {
+        "id": "Q49$2b4abeaf-4bd7-06c5-0cd5-59ed2cbb8afc",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q2016147"
+          },
+          "hash": "ddfa763e5b997dbdf398565a8307d0cde100b2cf",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q33",
+                  "numeric-id": 33
+                }
+              },
+              "hash": "633295086ebadffecc7fbc5a0c01895c6628381f",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q37",
+                  "numeric-id": 37
+                }
+              },
+              "hash": "b1425cd2993e3f92c9a14b21af060c59f636b662",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "object type"
+              },
+              "hash": "ca98f1edd9bed00fd72c5d71ea8bf154b0ed8a68",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "OSM"
+              },
+              "hash": "8ba1ffce38083649daea69e1720fea47f850b1eb",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Ogham Stone"
+              },
+              "hash": "4073afe9affce9be3af259f29c7c51c401f0db40",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49$d18e1971-44ab-0da7-435c-b4006384b3ca",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q55046509"
+          },
+          "hash": "db694742799cf405743979ae00bd9e1e591b0a54",
+          "property": "P11",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q35",
+                  "numeric-id": 35
+                }
+              },
+              "hash": "599368a06165659566260ebd6131cf981d557067",
+              "property": "P12",
+              "snaktype": "value"
+            }
+          ],
+          "P13": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Wikidata"
+              },
+              "hash": "8444bc54f08a562ed72669735a538b83f3068ca0",
+              "property": "P13",
+              "snaktype": "value"
+            }
+          ],
+          "P14": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q41",
+                  "numeric-id": 41
+                }
+              },
+              "hash": "a9ade3628bb83dc30a28b91c8aa5153f16d8eed0",
+              "property": "P14",
+              "snaktype": "value"
+            }
+          ],
+          "P15": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "exhibition"
+              },
+              "hash": "2719fbb57c1155c53aa73648375934d6c89a42a8",
+              "property": "P15",
+              "snaktype": "value"
+            }
+          ],
+          "P16": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "OSM"
+              },
+              "hash": "8ba1ffce38083649daea69e1720fea47f850b1eb",
+              "property": "P16",
+              "snaktype": "value"
+            }
+          ],
+          "P27": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Kilmalkedar Church"
+              },
+              "hash": "4c007c98688a990c4265f1680b79c05b99675b17",
+              "property": "P27",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P27",
+          "P12",
+          "P14",
+          "P13",
+          "P15",
+          "P16"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P28": [
+      {
+        "id": "Q49$48eafa7f-4e49-451a-d806-495696dc40e3",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ogham.celt.dias.ie/version2013/stone.php?lang=en&site=Kilmalkedar&stone=187._Kilmalkedar&stoneinfo=inscription"
+          },
+          "hash": "fafe43abef87fd7a57c476bb6e4c1c3d0c07bff9",
+          "property": "P28",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P18": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q46",
+                  "numeric-id": 46
+                }
+              },
+              "hash": "5aa3f861e3cc6c4c491eb9f1f2d538869e0c5aa6",
+              "property": "P18",
+              "snaktype": "value"
+            }
+          ],
+          "P19": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Geomagic"
+              },
+              "hash": "757888924aec15625decddecd8199ae961778c65",
+              "property": "P19",
+              "snaktype": "value"
+            }
+          ],
+          "P20": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Rob Shaq, Discovery Programme"
+              },
+              "hash": "9f39a529d420e5de58c2bca4f39b03e91ef49f01",
+              "property": "P20",
+              "snaktype": "value"
+            }
+          ],
+          "P21": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY-NC-SA 3.0 Ireland"
+              },
+              "hash": "858a8ab1696a5f6b1c19482b867083e12e423edb",
+              "property": "P21",
+              "snaktype": "value"
+            }
+          ],
+          "P29": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Artec Eva scanner, Faro scanner"
+              },
+              "hash": "015392fb0fdccc72e71777c985612da83a4e99dd",
+              "property": "P29",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P18",
+          "P29",
+          "P19",
+          "P20",
+          "P21"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q49$fd47ea25-418f-5927-15bd-8816969fd018",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/kilmalkedar-ogham-stone-rgb-27a2344de48842978505db558cc0712c"
+          },
+          "hash": "5a85f2fcae69564b72b77e37438a7e8aa8f9026d",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P18": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q46",
+                  "numeric-id": 46
+                }
+              },
+              "hash": "5aa3f861e3cc6c4c491eb9f1f2d538869e0c5aa6",
+              "property": "P18",
+              "snaktype": "value"
+            }
+          ],
+          "P19": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Geomagic"
+              },
+              "hash": "757888924aec15625decddecd8199ae961778c65",
+              "property": "P19",
+              "snaktype": "value"
+            }
+          ],
+          "P20": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Rob Shaq, Discovery Programme"
+              },
+              "hash": "9f39a529d420e5de58c2bca4f39b03e91ef49f01",
+              "property": "P20",
+              "snaktype": "value"
+            }
+          ],
+          "P21": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "CC BY-NC-SA 3.0 Ireland"
+              },
+              "hash": "858a8ab1696a5f6b1c19482b867083e12e423edb",
+              "property": "P21",
+              "snaktype": "value"
+            }
+          ],
+          "P29": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Artec Eva scanner, Faro scanner"
+              },
+              "hash": "015392fb0fdccc72e71777c985612da83a4e99dd",
+              "property": "P29",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P18",
+          "P29",
+          "P19",
+          "P20",
+          "P21"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q49$611d24df-4ee0-9531-3d98-585e65556860",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/9110402648"
+          },
+          "hash": "984bec563ff6642f382e84c7e33e9dd631703f01",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q49$7de48345-4cfd-833c-0651-014fd1bb526b",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.1847478,
+              "longitude": -10.3364628,
+              "precision": 1e-07
+            }
+          },
+          "hash": "b6e49c6bd1f095fe0da3c0c248348c1f51760a0a",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q49",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Cill Maoilchéadair | Kilmalkedar (I-KER-055)"
+    }
+  },
+  "lastrevid": 312,
+  "modified": "2026-02-21T16:59:29Z",
+  "ns": 120,
+  "pageid": 79,
+  "sitelinks": {},
+  "title": "Item:Q49",
+  "type": "item"
+}

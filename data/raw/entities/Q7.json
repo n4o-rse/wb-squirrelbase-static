@@ -1,0 +1,137 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q7$57c1c421-4767-be07-b095-a15f96338524",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q7$96342eb9-4f69-2447-834b-01fee57feb47",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://archaeosquirrels.cloud/?model=Rom_Capitol_HandKonstantin"
+          },
+          "hash": "26446f85b002d9dbd5915e4c0ab6d9372ce0d64b",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q7$c332d0c5-4a6e-442d-3dc4-dde590e7fb22",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=e2d506cfd84c49ceb20e8e6e2d8f70fc"
+          },
+          "hash": "b917c95847ab2ae71658b54fb054319aa54e10f7",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q7$d8382747-446c-c879-944f-d39bfbc19a6a",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1289781"
+          },
+          "hash": "6d55253d1d2302d278f98f2fcfd3fcca4689b1cb",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q7$b344d90a-4216-b592-1987-4426c5c44af0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "relation/9909127"
+          },
+          "hash": "39372e91c634add7e37ea776339049de3854c428",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q7$a7f778ba-4c21-dc51-e22a-f3777d389160",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 41.89290611111111,
+              "longitude": 12.48253388888889,
+              "precision": 2.777777777777778e-08
+            }
+          },
+          "hash": "ed33f3642c4d7fe7468bf9ef3423ba7dfb33ba9f",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q7",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rom Capitol Hand Konstantin"
+    }
+  },
+  "lastrevid": 64,
+  "modified": "2025-02-01T16:19:32Z",
+  "ns": 120,
+  "pageid": 16,
+  "sitelinks": {},
+  "title": "Item:Q7",
+  "type": "item"
+}

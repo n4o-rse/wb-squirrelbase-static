@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 3"
+    }
+  },
+  "id": "P24",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "FDO license"
+    }
+  },
+  "lastrevid": 410,
+  "modified": "2026-02-23T09:45:32Z",
+  "ns": 122,
+  "pageid": 68,
+  "title": "Property:P24",
+  "type": "property"
+}

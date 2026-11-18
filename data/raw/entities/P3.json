@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {},
+  "id": "P3",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "3DHOP URL"
+    }
+  },
+  "lastrevid": 10,
+  "modified": "2025-02-01T15:39:38Z",
+  "ns": 122,
+  "pageid": 8,
+  "title": "Property:P3",
+  "type": "property"
+}

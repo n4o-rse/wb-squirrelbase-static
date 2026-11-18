@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 3"
+    }
+  },
+  "id": "P14",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alignment score"
+    }
+  },
+  "lastrevid": 376,
+  "modified": "2026-02-22T14:50:58Z",
+  "ns": 122,
+  "pageid": 45,
+  "title": "Property:P14",
+  "type": "property"
+}

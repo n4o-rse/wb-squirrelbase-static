@@ -1,0 +1,128 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q4$1e82bf79-4cc0-fe9f-bedd-735d52b282da",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q4$1e6c72bd-4bef-d55c-6af2-be8b6f033b29",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kiriengine.app/share/ShareModel?code=G7ZGI4&serialize=aa18edf1cd19494a803d620286cc0888"
+          },
+          "hash": "7917828f7b51596473bf5c0a0250c61ba0fd602a",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q4$460784b5-4b10-e2f2-d966-0c8f5e318e4d",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116206915"
+          },
+          "hash": "043ddfbe6dca7b02de220df061e46875dd78ea7d",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q4$d2e2cef5-439c-6767-bbbe-dee2de993962",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/2554278342"
+          },
+          "hash": "a31d40bc9c52a6ff417012d7faea26454c1a90db",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q4$ce6689dc-4caa-9741-51d1-b6e370cad921",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.5026745,
+              "longitude": 13.3249878,
+              "precision": 1e-07
+            }
+          },
+          "hash": "862d4a81004dc9dcc808048270f577ad1ba393a9",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "object"
+    },
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q4",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Asymmetrische Vase (Berlin Ku’damm)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Asymmetrische Vase (Berlin Ku’damm)"
+    }
+  },
+  "lastrevid": 26,
+  "modified": "2025-02-01T15:55:55Z",
+  "ns": 120,
+  "pageid": 7,
+  "sitelinks": {},
+  "title": "Item:Q4",
+  "type": "item"
+}

@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "globe-coordinate",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "point geometry (WGS84)"
+    }
+  },
+  "id": "P8",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "representative point"
+    }
+  },
+  "lastrevid": 235,
+  "modified": "2026-02-21T12:44:07Z",
+  "ns": 122,
+  "pageid": 13,
+  "title": "Property:P8",
+  "type": "property"
+}

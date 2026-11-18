@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 2"
+    }
+  },
+  "id": "P12",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alignment type (SKOS)"
+    }
+  },
+  "lastrevid": 375,
+  "modified": "2026-02-22T14:50:50Z",
+  "ns": 122,
+  "pageid": 43,
+  "title": "Property:P12",
+  "type": "property"
+}

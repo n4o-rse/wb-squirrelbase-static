@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier; rank = 5"
+    }
+  },
+  "id": "P21",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "acquisition license"
+    }
+  },
+  "lastrevid": 384,
+  "modified": "2026-02-22T14:52:39Z",
+  "ns": 122,
+  "pageid": 65,
+  "title": "Property:P21",
+  "type": "property"
+}

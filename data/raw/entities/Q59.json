@@ -1,0 +1,98 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q59$4847e349-427a-f568-6e58-1da861a68fe2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "2a3b4b0a52cd6c738fd7ba49e5cb34800d258d5c",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q59$01fbc790-4d20-544e-bc06-4b9536fffd8c",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Q138426799"
+          },
+          "hash": "60adff09ca943d4031a6983c176811e3cb72fa53",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q59$684b4010-4b40-2c1f-08e6-43c7b906cb37",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "node/4237317721"
+          },
+          "hash": "b2c513c12aa0a1bc95ddadfc01091d48f1f24564",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q59$cc907659-4d8c-cc09-5bd0-ff89e3151967",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 47.0718475,
+              "longitude": 15.4412347,
+              "precision": 1e-07
+            }
+          },
+          "hash": "79417226e2f51ad42d6dfeaaef0c73b6fadc51b0",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q59",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Graz: “Das Erforschen der Dauer” von Manfred Erjautz"
+    }
+  },
+  "lastrevid": 422,
+  "modified": "2026-02-23T11:27:52Z",
+  "ns": 120,
+  "pageid": 89,
+  "sitelinks": {},
+  "title": "Item:Q59",
+  "type": "item"
+}
