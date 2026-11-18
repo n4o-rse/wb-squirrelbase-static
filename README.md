@@ -28,10 +28,10 @@ run `python main.py harvest --from-dir <folder>`.
 ## Related repositories
 
 - [`n4o-rse/wikibase-static`](https://github.com/n4o-rse/wikibase-static): the package that turns a Wikibase into static pages, RDF and a SPARQL page.
-- [`n4o-rse/fuzzy-sl-static`](https://github.com/n4o-rse/fuzzy-sl-static): a sibling site.
+- [`n4o-rse/wb-fuzzysl-static`](https://github.com/n4o-rse/wb-fuzzysl-static): a sibling site.
 - [`n4o-rse/wb-n4o-prov-static`](https://github.com/n4o-rse/wb-n4o-prov-static): a sibling site.
 
 ## Licence and attribution
 
 The code of this repository is under the [MIT licence](LICENSE). The data are those of [squirrelbase.wikibase.cloud](https://squirrelbase.wikibase.cloud); unless this repository says
-otherwise they are offered as [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). The logo: <!-- name author and licence here -->.
+otherwise they are offered as [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). The logo (`assets/logo.png`) is by Florian Thiery and offered as [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
