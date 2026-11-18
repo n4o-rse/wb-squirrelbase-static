@@ -1,2 +1,6 @@
 class,crm_class,note
 Q2,crm:E24_Physical_Human-Made_Thing,Object: stones; statues and snowmen; all human-made physical things
+Q31,model,Type: class of the vocabulary classes
+Q32,model,Alignment Type: vocabulary class
+Q36,model,Alignment Score: vocabulary class
+Q44,model,Acquisition Method: vocabulary class
